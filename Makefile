@@ -1,7 +1,7 @@
-all: skel
+all: 			multihash
 
-skel:	skel.o
-	g++ skel.o -o skel
+multihash:		multihash.o
+	g++ multihash.o -o multihash
 
-skel.o:	skel.cpp
-	g++ -c skel.cpp
+multihash.o:	multihash.cpp
+	g++ -c multihash.cpp

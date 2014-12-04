@@ -1,0 +1,16 @@
+Author: Brian Mitzel
+Email: bmitzel@csu.fullerton.edu
+Language: C++
+
+Compiling:
+    make
+
+Running:
+    ./multihash <filename>
+        filename: The name of the file to hash
+
+Extra Credit:
+    Not implemented
+
+Other Notes:
+    None
